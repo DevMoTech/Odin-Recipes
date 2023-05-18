@@ -76,21 +76,21 @@
 }
 
 .Carrot {
-  background-image: url(../background-photos/background-for-carrot-cake.jpg);
+  background-image: url(background-photos/background-for-carrot-cake.jpg);
   background-size: cover;
   margin: 0;
   padding: 0;
 }
 
 .Lasagna-Recipe {
-  background-image: url(../background-photos/background-for-lasagna.jpg);
+  background-image: url(background-photos/background-for-lasagna.jpg);
   background-size: cover;
   text-align: center;
   margin: 0;
   padding: 0;
 }
 .Waffles-Recipe {
-  background-image: url(../background-photos/background-for-waffels.jpg);
+  background-image: url(background-photos/background-for-waffels.jpg);
   background-size: cover;
   text-align: center;
   margin: 0;
